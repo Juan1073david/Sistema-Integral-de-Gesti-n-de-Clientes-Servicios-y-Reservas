@@ -1,0 +1,23 @@
+[2026-05-30 00:12:55] [INFO] Sistema de Gestión inicializado
+[2026-05-30 00:12:55] [INFO] Cliente creado: Ana María González (ID: 1)
+[2026-05-30 00:12:55] [INFO] Cliente agregado al sistema: Ana María González
+[2026-05-30 00:12:55] [INFO] Cliente creado: Carlos López (ID: 2)
+[2026-05-30 00:12:55] [INFO] Cliente agregado al sistema: Carlos López
+[2026-05-30 00:12:55] [INFO] Cliente creado: Luisa Fernández (ID: 3)
+[2026-05-30 00:12:55] [INFO] Cliente agregado al sistema: Luisa Fernández
+[2026-05-30 00:12:55] [INFO] Servicio agregado: Sala VIP Ejecutiva
+[2026-05-30 00:12:55] [INFO] Servicio agregado: Sala Estándar
+[2026-05-30 00:12:55] [INFO] Servicio agregado: Alquiler de Laptops
+[2026-05-30 00:12:55] [INFO] Servicio agregado: Consultoría en Redes
+[2026-05-30 00:12:55] [INFO] Servicio agregado: Análisis de Datos
+[2026-05-30 00:12:55] [INFO] Reserva creada: ID 1 - Cliente: Ana María González - Costo: $180.0
+[2026-05-30 00:12:55] [INFO] Reserva 1 confirmada
+[2026-05-30 00:12:55] [INFO] Reserva creada: ID 2 - Cliente: Carlos López - Costo: $225.0
+[2026-05-30 00:12:55] [INFO] Reserva creada: ID 3 - Cliente: Luisa Fernández - Costo: $256.0
+[2026-05-30 00:12:55] [INFO] Reserva 3 confirmada
+[2026-05-30 00:12:55] [ERROR] Error creando reserva: No se encontró cliente con ID 99
+[2026-05-30 00:12:55] [ERROR] Error creando reserva: No se encontró servicio con ID 99
+[2026-05-30 00:12:55] [ERROR] Error creando reserva: La duración debe ser mayor a 0
+[2026-05-30 00:14:11] [INFO] Reserva creada: ID 4 - Cliente: Ana María González - Costo: $1024.0
+[2026-05-30 00:16:15] [INFO] Cliente creado: Juan David Romero Gonzalez (ID: 4)
+[2026-05-30 00:16:15] [INFO] Cliente agregado al sistema: Juan David Romero Gonzalez
